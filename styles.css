@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    column-gap: 20px;
+    justify-content: space-between;
+    
+    
+}
+
+h6 {
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 400px; 
+    margin: 5px 20px 0px 20px;
+    
+}
+.stars {width: 150px;}
+
+.first {font-weight: bolder;}
+
+a {color: #007185}
+
